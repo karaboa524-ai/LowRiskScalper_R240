@@ -1,0 +1,1 @@
+LowRiskScalper_R240.mq5
